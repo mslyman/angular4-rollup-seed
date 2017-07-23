@@ -1,6 +1,6 @@
 {
-  "name": "helloapp",
-  "version": "1.0.0",
+  "name": "app",
+  "version": "0.0.0",
   "scripts": {
     "start": "concurrent \"npm run tsc:w\" \"npm run lite\" ",
     "lite": "lite-server",
