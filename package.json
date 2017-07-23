@@ -1,6 +1,7 @@
 {
   "name": "app",
   "version": "0.0.0",
+  "license": "",
   "scripts": {
     "start": "concurrent \"npm run tsc:w\" \"npm run lite\" ",
     "lite": "lite-server",
